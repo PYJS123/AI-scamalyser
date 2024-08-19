@@ -1,0 +1,2 @@
+# AI-scamalyser
+yes
